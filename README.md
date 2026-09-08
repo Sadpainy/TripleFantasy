@@ -59,7 +59,7 @@ Ensure that all required system libraries are linked as specified.
 
 ---
 
-Configuration
+## Configuration
 
 The global configuration is defined in the tf_core::tf_global_config structure.
 
@@ -87,7 +87,7 @@ All cryptographic keys are generated at runtime using the internal RNG.
 
 ---
 
-Usage
+## Usage
 
 This framework is intended solely for use in isolated, authorized testing environments. Execution on production systems or networks without explicit permission is prohibited.
 
@@ -165,7 +165,7 @@ The author, Sadpainy, assumes no liability for misuse of this framework. Users a
 
 ---
 
-License
+## License
 
 This project is released under the MIT License. Refer to the LICENSE file for full terms.
 
@@ -179,6 +179,6 @@ https://github.com/Sadpainy
 
 ---
 
-Acknowledgements
+## Acknowledgements
 
 This framework incorporates concepts derived from public threat intelligence and APT research. It is intended to contribute to the broader security community's understanding of modern attack techniques and defensive countermeasures.
