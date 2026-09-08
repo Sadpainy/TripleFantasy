@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat&labelColor=555555&color=0078D6&logo=windows)
 
 # TripleFantasy
 
