@@ -12,7 +12,7 @@ A modular, Windows-based security research framework for adversarial simulation 
 
 TripleFantasy is a research-oriented software framework designed to model advanced persistent threat (APT) behaviors in controlled laboratory environments. It implements a flexible plugin architecture, encrypted communication channels, and runtime integrity checks to support the development and testing of defensive security solutions.
 
-This project is the work of independent security researcher **Sadpainy** and is released for educational and research purposes only.
+This project is the work of **Sadpainy** and is released for educational and research purposes only.
 
 ---
 
